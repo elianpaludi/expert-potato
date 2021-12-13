@@ -1,0 +1,21 @@
+{
+  "name": "lovejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "Reliax",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.1.1",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
